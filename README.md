@@ -45,4 +45,4 @@ https://i.postimg.cc/MGmFxYLy/foto2.jpg
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/paolosky097/Legado.git
